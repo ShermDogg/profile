@@ -1,0 +1,8 @@
+{
+    "mongoURI":"mongodb+srv://shermdogg:5311@menu.yrp7u.mongodb.net/menu?retryWrites=true&w=majority",
+    "jwtSecret": "mysecret",
+    "githubClientId": "fc6c3c724da49504b27b",
+    "githubSecret":"7b421babee5b8f5b73c6599794200fd8d64c9ca6"
+    
+   
+}
